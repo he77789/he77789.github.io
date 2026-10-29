@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+hide_nav: true
 ---
 
 This is just a placeholder homepage for my personal rclone Google OAuth application.

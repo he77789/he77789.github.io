@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Privacy Policy
+hide_nav: true
 ---
 
 # Privacy Policy
